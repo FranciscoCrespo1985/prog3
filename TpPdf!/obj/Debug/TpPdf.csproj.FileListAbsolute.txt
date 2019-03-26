@@ -1,0 +1,10 @@
+D:\Workspace\prog3\prog3\TpPdf!\bin\Debug\TpPdf!.exe.config
+D:\Workspace\prog3\prog3\TpPdf!\bin\Debug\TpPdf!.exe
+D:\Workspace\prog3\prog3\TpPdf!\bin\Debug\TpPdf!.pdb
+D:\Workspace\prog3\prog3\TpPdf!\obj\Debug\TpPdf.csprojAssemblyReference.cache
+D:\Workspace\prog3\prog3\TpPdf!\obj\Debug\TpPdf_.FormDatos.resources
+D:\Workspace\prog3\prog3\TpPdf!\obj\Debug\TpPdf_.Properties.Resources.resources
+D:\Workspace\prog3\prog3\TpPdf!\obj\Debug\TpPdf.csproj.GenerateResource.cache
+D:\Workspace\prog3\prog3\TpPdf!\obj\Debug\TpPdf.csproj.CoreCompileInputs.cache
+D:\Workspace\prog3\prog3\TpPdf!\obj\Debug\TpPdf!.exe
+D:\Workspace\prog3\prog3\TpPdf!\obj\Debug\TpPdf!.pdb

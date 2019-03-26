@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8934ECC6-C813-42EF-A7D2-01C32F13A1E7}</ProjectGuid>
+    <ProjectGuid>{A8F47BF1-51C4-42B7-96A9-5382D3280175}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>prog3ej1</RootNamespace>
-    <AssemblyName>prog3ej1</AssemblyName>
+    <RootNamespace>TpPdf_</RootNamespace>
+    <AssemblyName>TpPdf!</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

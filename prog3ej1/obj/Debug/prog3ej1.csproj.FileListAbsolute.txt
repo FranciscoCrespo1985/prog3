@@ -1,0 +1,10 @@
+D:\Workspace\prog3\prog3\prog3ej1\bin\Debug\prog3ej1.exe.config
+D:\Workspace\prog3\prog3\prog3ej1\bin\Debug\prog3ej1.exe
+D:\Workspace\prog3\prog3\prog3ej1\bin\Debug\prog3ej1.pdb
+D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.csprojAssemblyReference.cache
+D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.Form1.resources
+D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.Properties.Resources.resources
+D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.csproj.GenerateResource.cache
+D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.csproj.CoreCompileInputs.cache
+D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.exe
+D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.pdb
