@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog3ej1", "prog3ej1\prog3e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpPdf", "TpPdf!\TpPdf.csproj", "{A8F47BF1-51C4-42B7-96A9-5382D3280175}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpPdf2", "TpPdf2\TpPdf2.csproj", "{7690DC08-9B60-4E0F-95D6-4C0DF67F8606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A8F47BF1-51C4-42B7-96A9-5382D3280175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8F47BF1-51C4-42B7-96A9-5382D3280175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8F47BF1-51C4-42B7-96A9-5382D3280175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7690DC08-9B60-4E0F-95D6-4C0DF67F8606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7690DC08-9B60-4E0F-95D6-4C0DF67F8606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7690DC08-9B60-4E0F-95D6-4C0DF67F8606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7690DC08-9B60-4E0F-95D6-4C0DF67F8606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
