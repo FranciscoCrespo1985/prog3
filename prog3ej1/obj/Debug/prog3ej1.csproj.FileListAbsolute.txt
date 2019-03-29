@@ -8,3 +8,13 @@ D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.csproj.GenerateResource.cac
 D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.csproj.CoreCompileInputs.cache
 D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.exe
 D:\Workspace\prog3\prog3\prog3ej1\obj\Debug\prog3ej1.pdb
+C:\workspace\proj3ej1\prog3\prog3ej1\bin\Debug\prog3ej1.exe.config
+C:\workspace\proj3ej1\prog3\prog3ej1\bin\Debug\prog3ej1.exe
+C:\workspace\proj3ej1\prog3\prog3ej1\bin\Debug\prog3ej1.pdb
+C:\workspace\proj3ej1\prog3\prog3ej1\obj\Debug\prog3ej1.csprojAssemblyReference.cache
+C:\workspace\proj3ej1\prog3\prog3ej1\obj\Debug\prog3ej1.Form1.resources
+C:\workspace\proj3ej1\prog3\prog3ej1\obj\Debug\prog3ej1.Properties.Resources.resources
+C:\workspace\proj3ej1\prog3\prog3ej1\obj\Debug\prog3ej1.csproj.GenerateResource.cache
+C:\workspace\proj3ej1\prog3\prog3ej1\obj\Debug\prog3ej1.csproj.CoreCompileInputs.cache
+C:\workspace\proj3ej1\prog3\prog3ej1\obj\Debug\prog3ej1.exe
+C:\workspace\proj3ej1\prog3\prog3ej1\obj\Debug\prog3ej1.pdb

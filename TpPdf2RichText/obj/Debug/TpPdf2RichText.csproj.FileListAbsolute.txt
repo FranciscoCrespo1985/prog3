@@ -1,0 +1,10 @@
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\obj\Debug\TpPdf2RichText.csprojAssemblyReference.cache
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\obj\Debug\TpPdf2RichText.frmRichTextBox.resources
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\obj\Debug\TpPdf2RichText.Properties.Resources.resources
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\obj\Debug\TpPdf2RichText.csproj.GenerateResource.cache
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\obj\Debug\TpPdf2RichText.csproj.CoreCompileInputs.cache
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\bin\Debug\TpPdf2RichText.exe.config
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\bin\Debug\TpPdf2RichText.exe
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\bin\Debug\TpPdf2RichText.pdb
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\obj\Debug\TpPdf2RichText.exe
+C:\workspace\proj3ej1\prog3\TpPdf2RichText\obj\Debug\TpPdf2RichText.pdb
